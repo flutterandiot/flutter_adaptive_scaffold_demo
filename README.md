@@ -1,0 +1,2 @@
+# flutter_adaptive_scaffold_demo
+Demo application using the flutter_adaptive_scaffold
