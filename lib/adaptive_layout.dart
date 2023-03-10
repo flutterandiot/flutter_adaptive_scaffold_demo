@@ -112,12 +112,12 @@ class AdaptiveLayoutHome extends StatelessWidget {
                 padding: const EdgeInsets.only(left: 32, right: 48),
                 child: Row(
                   children: [
-                    TextButton(
-                      onPressed: () {
-                        //TODO - add action
-                      },
-                      child: const FlutterLogo(),
-                    ),
+                    // TextButton(
+                    //   onPressed: () {
+                    //     //TODO - add action
+                    //   },
+                    //   child: const FlutterLogo(),
+                    // ),
                     const Spacer(),
                     TextButton(
                       onPressed: () {
