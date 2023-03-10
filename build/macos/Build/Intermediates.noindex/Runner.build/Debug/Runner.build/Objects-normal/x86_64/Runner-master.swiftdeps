@@ -1,0 +1,10 @@
+version: "Apple Swift version 5.7.2 (swiftlang-5.7.2.135.5 clang-1400.0.29.51)"
+options: "8733d654787df92484e8aee64e16aaac608d0524e6de37343b49cb025840778c"
+build_start_time: [1678431512, 53647041]
+build_end_time: [1678431514, 110574960]
+inputs:
+  ? "/Volumes/Work/development/flutter/flutter-samples/adaptive_scaffold_demo/demo_adaptive_scaffold/macos/Flutter/GeneratedPluginRegistrant.swift"
+  : [1678431503, 857741355]
+  "/Volumes/Work/development/flutter/flutter-samples/adaptive_scaffold_demo/demo_adaptive_scaffold/macos/Runner/AppDelegate.swift": [1631114968, 0]
+  ? "/Volumes/Work/development/flutter/flutter-samples/adaptive_scaffold_demo/demo_adaptive_scaffold/macos/Runner/MainFlutterWindow.swift"
+  : [1631114968, 0]
